@@ -2,115 +2,126 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Dr. Vikram Singh
+  given: Vikram
+  family: Singh
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
   - PhD
-  - MIEEE
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🧬"
+role: MK Bhan Young Research Fellow
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Vikram Singh is an MK Bhan Young Research Fellow at the International 
+  Centre for Genetic Engineering and Biotechnology (ICGEB), New Delhi. 
+  His core research lies at the intersection of Systems Biology and 
+  Computational Network Science. He focuses on identifying higher-order
+  organizational patterns—like multi-node motifs and dynamic modules—that
+  shape biological functions. His current work integrates multi-omics 
+  datasets using hypergraph theory and tensor decomposition to map 
+  disease-specific rewiring in temporal lobe epilepsy (TLE).
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: ICGEB, New Delhi
+    url: https://www.icgeb.org/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:vsingh@icgeb.res.in
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://github.com/vikram0691
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=AWB--mIAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0001-0842-2879
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Systems Biology
+  - Computational Network Science & Graph Theory
+  - Multi-Omics Data Integration
+  - Deep Learning for Drug Prioritization
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD Computational Biology and Bioinformatics
+    institution: Central University of Himachal Pradesh
+    start: 2016-01-01
+    end: 2023-09-30
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Conducted interdisciplinary research in Systems Biology and Computational Network Science, focusing on higher-order organizational patterns in complex biological networks (PPI, residue structural graphs, and brain functional fMRI networks). Developed graphlet-based deep learning models and novel scale-free random network null models. Awarded CSIR-JRF and CSIR-SRF.
+  - degree: MSc Computational Biology and Bioinformatics
+    institution: Central University of Himachal Pradesh
+    start: 2011-09-01
+    end: 2013-06-30
+  - degree: BSc Medical
+    institution: Himachal Pradesh University
+    start: 2008-07-01
+    end: 2011-06-30
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Principal Investigator / MK Bhan Young Researcher Fellow
+    org: International Centre for Genetic Engineering and Biotechnology
+    start: 2024-10-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Principal Investigator of a Department of Biotechnology (DBT) funded research project integrating bulk and single-cell RNA-seq, PPI, epigenomics, and GWAS data using hypergraphs to analyze higher-order network topology and rewiring in temporal lobe epilepsy (TLE). Prioritizing anti-TLE phytochemicals via target-compound interaction networks and deep learning models.
+  - role: Data Curator
+    org: Indian Biological Data Centre, Regional Centre for Biotechnology
+    start: 2024-03-01
+    end: 2024-09-30
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Contributed to database design, secure data workflows, metadata standards, and submission pipelines for the Indian Nucleotide Data Archive (INDA) and INDA-CA for secure sharing of sensitive human genomic data. Handled large-scale whole genome sequencing (WGS) and metagenomic surveillance processing pipelines for national projects like INSACOG and GenomeIndia.
+  - role: Junior Research Fellow
+    org: Sher-e-Kashmir University of Agricultural Sciences and Technology
+    start: 2013-12-01
+    end: 2015-03-31
+    summary: |
+      Processed whole-genome resequencing data, performed alignment, variant calling, and downstream quality annotation to discover and prioritize informative SNP markers for a high-density SNP genotyping chip design for Brassica juncea.
 
 skills:
-  - name: Technical Skills
+- name: Technical Skills
     items:
-      - label: Python
+      - label: R (ComplexHeatmap, ggplot2, dplyr)
         level: 5
-      - label: Machine Learning
+      - label: Python (Machine Learning, NetworkX)
         level: 5
-      - label: Cloud Computing
+      - label: Shell Scripting & Perl
         level: 4
-  - name: Research & Communication
+      - label: SQL & Database Workflows
+        level: 4
+  - name: Computational Research
     items:
-      - label: Academic Writing
+      - label: Network Topology Analysis
         level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
+      - label: Multi-Omics Data Integration
+        level: 5
+      - label: Scale-Free Null Modeling
+        level: 5
+      - label: Deep Learning on Graphs
         level: 4
 
 languages:
   - name: English
     level: 5
+    label: Professional
+  - name: Hindi
+    level: 5
     label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: MK Bhan Young Researcher Fellowship (MKBYRF)
+    awarder: Department of Biotechnology (DBT), Govt. of India
+    date: "2024-05-01"
+    summary: Awarded for the multi-omics heterogenous hypergraphs-based deep learning framework against temporal lobe epilepsy.
     icon: hero/trophy
+  - title: Department of Biotechnology Research Associateship (DBT-RA)
+    awarder: Department of Biotechnology (DBT), Govt. of India
+    date: "2024-04-01"
+    summary: Awarded for deciphering genomic alterations driving drug resistance in clinical isolates of Candida auris.
+    icon: hero/academic-cap
+  - title: CSIR-NET JRF (AIR 121)
+    awarder: Council of Scientific and Industrial Research
+    date: "2018-05-01"
+    summary: Qualified Joint CSIR-UGC National Eligibility Test in Life Sciences.
+    icon: hero/bolt
