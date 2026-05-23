@@ -80,7 +80,7 @@ experience:
       Processed whole-genome resequencing data, performed alignment, variant calling, and downstream quality annotation to discover and prioritize informative SNP markers for a high-density SNP genotyping chip design for Brassica juncea.
 
 skills:
-- name: Technical Skills
+  - name: Technical Skills
     items:
       - label: R (ComplexHeatmap, ggplot2, dplyr)
         level: 5
