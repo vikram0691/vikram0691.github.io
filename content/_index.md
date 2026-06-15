@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'Dr Vikram Singh'
 summary: ''
 date: 2022-10-24
 type: landing
@@ -38,9 +38,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Complex diseases emerge not from the dysfunction of individual genes, but from the disruption of coordinated molecular networks operating across multiple biological scales. My research seeks to uncover the organizational principles governing these systems and to understand how they are altered in disease. To address this challenge, I develop and apply methods from systems biology, network science, machine learning, and applied mathematics to large-scale omics datasets. A particular focus of my work is the identification of higher-order structures—such as network motifs, dynamic modules, hypergraphs, and tensor representations—that capture patterns inaccessible to conventional pairwise analyses.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Currently, I am investigating disease-associated network rewiring in temporal lobe epilepsy through integrative multi-omics analyses. My long-term goal is to build computational frameworks capable of revealing the mechanisms underlying complex diseases and guiding the discovery of robust biomarkers and therapeutic targets.
 
         Please reach out to collaborate 😃
     design:

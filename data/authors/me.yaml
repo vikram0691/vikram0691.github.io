@@ -14,14 +14,7 @@ status:
   icon: "🧬"
 role: MK Bhan Young Research Fellow
 bio: |
-  Vikram Singh is an MK Bhan Young Research Fellow at the International 
-  Centre for Genetic Engineering and Biotechnology (ICGEB), New Delhi. 
-  His core research lies at the intersection of Systems Biology and 
-  Computational Network Science. He focuses on identifying higher-order
-  organizational patterns—like multi-node motifs and dynamic modules—that
-  shape biological functions. His current work integrates multi-omics 
-  datasets using hypergraph theory and tensor decomposition to map 
-  disease-specific rewiring in temporal lobe epilepsy (TLE).
+  I am an MK Bhan Young Research Fellow at the International Centre for Genetic Engineering and Biotechnology (ICGEB), New Delhi. My research combines Systems Biology, Network Science, and Multi-Omics Data Integration to understand how complex biological systems are organized and how they become disrupted in disease. I develop graph-theoretic and computational approaches to identify higher-order structures—including network motifs, dynamic modules, and multi-way interaction patterns—that underlie biological function. Currently, I am investigating disease-associated molecular rewiring in temporal lobe epilepsy through integrative multi-omics analyses, with the long-term aim of advancing mechanistic disease understanding and therapeutic discovery.
 
 affiliations:
   - name: ICGEB, New Delhi
@@ -83,9 +76,9 @@ skills:
   - name: Technical Skills
     items:
       - label: R (ComplexHeatmap, ggplot2, dplyr)
-        level: 5
+        level: 4
       - label: Python (Machine Learning, NetworkX)
-        level: 5
+        level: 4
       - label: Shell Scripting & Perl
         level: 4
       - label: SQL & Database Workflows
@@ -93,20 +86,20 @@ skills:
   - name: Computational Research
     items:
       - label: Network Topology Analysis
-        level: 5
+        level: 4
       - label: Multi-Omics Data Integration
-        level: 5
+        level: 4
       - label: Scale-Free Null Modeling
-        level: 5
+        level: 4
       - label: Deep Learning on Graphs
         level: 4
 
 languages:
   - name: English
-    level: 5
+    level: 4
     label: Professional
   - name: Hindi
-    level: 5
+    level: 4
     label: Native
 
 awards:
